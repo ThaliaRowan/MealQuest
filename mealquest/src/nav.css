@@ -1,0 +1,16 @@
+
+.navbar-brand {
+    font-size: 3rem !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white !important;
+}
+
+.navbar {
+    background-color: #81c784;
+}
+
+.nav-item {
+    padding-right: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
